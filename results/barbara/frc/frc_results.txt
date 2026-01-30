@@ -1,0 +1,8 @@
+FRC Resolution Analysis
+==================================================
+Resolution = frequency where FRC < 0.143
+Lower frequency = worse resolution
+
+Gaussian confocal: 0.2552
+Doughnut saturated: 0.2552
+Multiview (Doughnut+Gaussian): 0.2552
